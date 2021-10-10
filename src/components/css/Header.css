@@ -1,0 +1,14 @@
+@import url(//db.onlinewebfonts.com/c/4c1e2c4a8ec30ef2e462af6368444c8f?family=RionaSansW01-BoldItalic);
+header{
+    min-height: 9em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    overflow: hidden;
+}
+
+header .menu,
+header .close{
+    cursor: pointer;
+    display: none;
+}
